@@ -1,0 +1,22 @@
+.travel-blog-container {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.place-heading {
+  font-size: 2em;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.image-container img {
+  width: 30%;
+}
+
+.description {
+  font-size: 1.2em;
+}
